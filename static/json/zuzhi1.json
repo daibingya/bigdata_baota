@@ -1,0 +1,24 @@
+[
+    {
+        "type" : "pie",
+        "center" : ["64%", "35%"],
+        "radius" : [38, 50],
+        "x":"80%", 
+        "itemStyle" :"labelFromatter",
+        "data": [
+        	{"name":"甘谷驿镇","value":0,"itemStyle":"labelTop"},
+            {"name":"社区党组织", "value":43},
+            {"name":"社会组织党组织", "value":57}
+        ],
+        "itemStyle": {
+        	"normal" : {
+            	"label":{
+            		"show":false
+            	},
+            	"labelLine":{
+            		"show":false
+            	}
+        	}
+        }
+    }
+]
